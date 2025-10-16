@@ -1,0 +1,39 @@
+{
+  "title": "Explore I2EDC",
+  "subtitle": "Our Clubs",
+  "offerings": [
+    {
+      "title": "Protospace",
+      "description": "",
+      "gradient": "from-blue-500 to-cyan-500",
+      "imageUrl" : [""],
+      "keyEvents": [""],
+      "highlights" : [""]
+    },
+
+    {
+      "title": "Tinkering Lab",
+      "description": "",
+      "gradient": "from-purple-500 to-pink-500",
+      "imageUrl" : [""],
+      "keyEvents": [""],
+      "highlights" : [""]
+    },
+    {
+      "title": "E-Cell",
+      "description": "E-Cell.",
+      "gradient": "from-blue-500 to-cyan-500",
+      "imageUrl" : [""],
+      "keyEvents": [""],
+      "highlights" : [""]
+    },
+    {
+      "title": "BEC",
+      "description": "Budding Entreprenuer Club",
+      "gradient": "from-blue-500 to-cyan-500",
+      "imageUrl" : [""],
+      "keyEvents": [""],
+      "highlights" : [""]
+    }
+  ]
+}

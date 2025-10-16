@@ -1,0 +1,90 @@
+{
+  "services": [
+    {
+      "title": "3D Printing",
+      "machines": [
+        "Franktal works",
+        "Franktal Dual Printer",
+        "Creality K1",
+        "Creality MAX",
+        "Creality K1C",
+        "SLA Printer",
+        "UV Resin Curing Machine",
+        "Dual SLA Printer"
+      ],
+      "description": "",
+      "color": "from-blue-500 to-cyan-400",
+      "imageUrl":[""]
+    },
+    {
+      "title": "Laser Cutting",
+      "machines": [
+        "CO₂ Laser Cutter"
+      ],
+      "description": "",
+      "color": "from-purple-500 to-pink-500",
+      "imageUrl":[""]
+     
+    },
+    {
+      "title": "CNC Lathe Machine",
+      "description": "",
+      "color": "from-amber-500 to-orange-500",
+      "imageUrl":[""]
+    },
+    {
+      "title": "CNC Milling Machine",
+      "machines": [
+        "X-Carve CNC Router"
+      ],
+      "description": "",
+      "color": "from-green-500 to-emerald-400",
+      "imageUrl":[""]
+    },
+    {
+      "title": "CNC Milling Machine",
+      "machines": [
+        "X-Carve CNC Router"
+      ],
+      "description": "",
+      "color": "from-green-500 to-emerald-400",
+      "imageUrl":[""]
+    },
+    {
+      "title": "Electronics Workbenches",
+      "machines": [
+        "Soldering Stations",
+        "Multimeters",
+        "Oscillioscopes"
+      ],
+      "description": "",
+      "color": "from-green-500 to-emerald-400",
+      "imageUrl":[""]
+    },
+    {
+      "title": "Microcontroller & Sensors",
+      "machines": [
+        "Arduino Kits",
+        "Raspberry Pi Kits",
+        "Sensors"
+      ],
+      "description": "",
+      "color": "from-green-500 to-emerald-400",
+      "imageUrl":[""]
+    },
+    {
+      "title": "3D Design & Modeling Softwares",
+      "machines": [
+        "AutoCAD",
+        "SolidWorks",
+        "KI-CAD PCB Design",
+        "Corel Draw",
+        "3D Scanners"
+      ],
+      "description": "",
+      "color": "from-green-500 to-emerald-400",
+      "imageUrl":[""]
+    }
+
+  ]
+}
