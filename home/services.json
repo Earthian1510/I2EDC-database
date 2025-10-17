@@ -1,90 +1,94 @@
 {
-  "services": [
+  "Services": [
     {
-      "title": "3D Printing",
-      "machines": [
-        "Franktal works",
-        "Franktal Dual Printer",
-        "Creality K1",
-        "Creality MAX",
-        "Creality K1C",
-        "SLA Printer",
-        "UV Resin Curing Machine",
-        "Dual SLA Printer"
-      ],
-      "description": "",
-      "color": "from-blue-500 to-cyan-400",
-      "imageUrl":[""]
+      "Sr No": 1,
+      "Service": "3D Scanner",
+      "Unit": "per Minute",
+      "Rate_INR": 40,
+      "image" : "http://72.60.102.111:8000/media/uploads/3d-scanner.png"
     },
     {
-      "title": "Laser Cutting",
-      "machines": [
-        "CO₂ Laser Cutter"
-      ],
-      "description": "",
-      "color": "from-purple-500 to-pink-500",
-      "imageUrl":[""]
-     
+      "Sr No": 2,
+      "Service": "PCB Soldering Machine",
+      "Unit": "per Minute",
+      "Rate_INR": 80,
+      "image" : "http://72.60.102.111:8000/media/uploads/pcb-printing-machine.png"
     },
     {
-      "title": "CNC Lathe Machine",
-      "description": "",
-      "color": "from-amber-500 to-orange-500",
-      "imageUrl":[""]
+      "Sr No": 3,
+      "Service": "Dual Extruder Water dissolves support 3D printing",
+      "Unit": "per Hour",
+      "Rate_INR": 170,
+      "image" : "http://72.60.102.111:8000/media/uploads/dual-nozzle-3d-printer.png"
     },
     {
-      "title": "CNC Milling Machine",
-      "machines": [
-        "X-Carve CNC Router"
-      ],
-      "description": "",
-      "color": "from-green-500 to-emerald-400",
-      "imageUrl":[""]
+      "Sr No": 4,
+      "Service": "Laser Cutting/Engraving",
+      "Unit": "per Minute",
+      "Rate_INR": 40,
+      "image" : "http://72.60.102.111:8000/media/uploads/laser-cutting.png"
     },
     {
-      "title": "CNC Milling Machine",
-      "machines": [
-        "X-Carve CNC Router"
-      ],
-      "description": "",
-      "color": "from-green-500 to-emerald-400",
-      "imageUrl":[""]
+      "Sr No": 5,
+      "Service": "PCB Design Milling",
+      "Unit": "per Hour",
+      "Rate_INR": 150,
+      "image" : ""
     },
     {
-      "title": "Electronics Workbenches",
-      "machines": [
-        "Soldering Stations",
-        "Multimeters",
-        "Oscillioscopes"
-      ],
-      "description": "",
-      "color": "from-green-500 to-emerald-400",
-      "imageUrl":[""]
+      "Sr No": 6,
+      "Service": "Single Nozzle 3D Printing",
+      "Unit": "per Hour",
+      "Rate_INR": 100,
+      "image" : "http://72.60.102.111:8000/media/uploads/single-nozzle-3d-printer.png"
     },
     {
-      "title": "Microcontroller & Sensors",
-      "machines": [
-        "Arduino Kits",
-        "Raspberry Pi Kits",
-        "Sensors"
-      ],
-      "description": "",
-      "color": "from-green-500 to-emerald-400",
-      "imageUrl":[""]
+      "Sr No": 7,
+      "Service": "SLA Resin 3D Printing",
+      "Unit": "per Hour",
+      "Rate_INR": 150,
+      "image" : "http://72.60.102.111:8000/media/uploads/sla-printer.png"
     },
     {
-      "title": "3D Design & Modeling Softwares",
-      "machines": [
-        "AutoCAD",
-        "SolidWorks",
-        "KI-CAD PCB Design",
-        "Corel Draw",
-        "3D Scanners"
-      ],
-      "description": "",
-      "color": "from-green-500 to-emerald-400",
-      "imageUrl":[""]
+      "Sr No": 8,
+      "Service": "Vacuum Foaming",
+      "Unit": "per Hour",
+      "Rate_INR": 150,
+      "image" : ""
+    },
+    {
+      "Sr No": 9,
+      "Service": "Vinyl poster printing and cutting",
+      "Unit": "per Minute",
+      "Rate_INR": 40,
+      "image" : ""
     }
-
+  ],
+  "Requester_Charges": [
+    {
+      "Requester": "IIT Jammu Students",
+      "Visit_Space_Charges_INR": 0,
+      "Usage_Charges": "N"
+    },
+    {
+      "Requester": "Existing Clubs",
+      "Visit_Space_Charges_INR": 0,
+      "Usage_Charges": "N"
+    },
+    {
+      "Requester": "Alumni",
+      "Visit_Space_Charges_INR": "1000 per Hour or 5000 per day",
+      "Usage_Charges": "2*N"
+    },
+    {
+      "Requester": "Industries & Other including Army",
+      "Visit_Space_Charges_INR": "2000 per visit",
+      "Usage_Charges": "5*N"
+    },
+    {
+      "Requester": "Private Schools",
+      "Visit_Space_Charges_INR": "1000 per person per visit",
+      "Usage_Charges": "N"
+    }
   ]
 }

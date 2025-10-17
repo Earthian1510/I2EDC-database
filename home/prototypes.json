@@ -4,41 +4,41 @@
       "title": "Crepe bandage Applicator",
       "description": "",
       "category": [""],
-      "year" : "",
-      "inventors" : [""],
-      "images" : [""],
+      "year" : "2024",
+      "inventors" : ["Honey Baranwal", "Mayur Kumar"],
+      "images" : ["http://72.60.102.111:8000/media/uploads/crepe-bandage.png"],
       "video" : [""],
-      "event" : ""
+      "event" : "Invention Factory 2024"
     },
     {
       "title": "Fluid Flex Sensor ",
       "description": "",
       "category": [""],
-      "year" : "",
-      "inventors" : [""],
-      "images" : [""],
+      "year" : "2024",
+      "inventors" : ["Romit Mohane", "Vinati Mehta"],
+      "images" : ["http://72.60.102.111:8000/media/uploads/flexi-sensor.png"],
       "video" : [""],
-      "event" : ""
+      "event" : "Invention Factory 2024"
     },
     {
       "title": "Multi-Drug Injector",
       "description": "",
       "category": [""],
-      "year" : "",
-      "inventors" : [""],
+      "year" : "2024",
+      "inventors" : ["Khushboo Rathore", "Varun Rawat"],
       "images" : [""],
       "video" : [""],
-      "event" : ""
+      "event" : "Invention Factory 2024"
     },
     {
       "title": "Self Lubricating Tampon",
       "description": "",
       "category": [""],
-      "year" : "",
-      "inventors" : [""],
-      "images" : [""],
+      "year" : "2024",
+      "inventors" : ["Etka Sachan", "Aditya Jaiswal"],
+      "images" : ["http://72.60.102.111:8000/media/uploads/self-lubricating-tampon.png"],
       "video" : [""],
-      "event" : ""
+      "event" : "Invention Factory 2024"
     },
     {
       "title": "Ankle Joint",
@@ -46,7 +46,7 @@
       "category": [""],
       "year" : "",
       "inventors" : [""],
-      "images" : [""],
+      "images" : ["http://72.60.102.111:8000/media/uploads/ankle-joint.png"],
       "video" : [""],
       "event" : ""
     },
@@ -54,11 +54,11 @@
       "title": "Self Wrapping Pad",
       "description": "",
       "category": [""],
-      "year" : "",
-      "inventors" : [""],
-      "images" : [""],
+      "year" : "2024",
+      "inventors" : ["Priyanshi", "Mukesh Dewangan"],
+      "images" : ["http://72.60.102.111:8000/media/uploads/self-wrapping-pad.png"],
       "video" : [""],
-      "event" : ""
+      "event" : "Invention Factory 2024"
     },
     {
       "title": "Vibration Damping Gloves",
@@ -114,21 +114,21 @@
       "title": "Braille Display",
       "description": "",
       "category": [""],
-      "year" : "",
-      "inventors" : [""],
-      "images" : [""],
+      "year" : "2024",
+      "inventors" : ["Aayusgi Bhansali", "Abhishek Kumar"],
+      "images" : ["http://72.60.102.111:8000/media/uploads/braille-display.png"],
       "video" : [""],
-      "event" : ""
+      "event" : "Invention Factory 2024"
     },
     {
       "title": "Knee Brace",
       "description": "",
       "category": [""],
-      "year" : "",
-      "inventors" : [""],
-      "images" : [""],
+      "year" : "2024",
+      "inventors" : ["Preksha Pandya", "Anirudhan S"],
+      "images" : ["http://72.60.102.111:8000/media/uploads/knee-brace.png"],
       "video" : [""],
-      "event" : ""
+      "event" : "Invention Factory 2024"
     },
     {
       "title": "Automatice Eyeglass Cleaner ",
@@ -184,11 +184,11 @@
       "title": "Toilet Swipe",
       "description": "",
       "category": [""],
-      "year" : "",
-      "inventors" : [""],
-      "images" : [""],
+      "year" : "2024",
+      "inventors" : ["Dev Raval", "Anurag Ninawe"],
+      "images" : ["http://72.60.102.111:8000/media/uploads/toilet-swipe.png"],
       "video" : [""],
-      "event" : ""
+      "event" : "Invention Factory 2024"
     },
     {
       "title": "Steam Operated Boil-Over Inhibitor",

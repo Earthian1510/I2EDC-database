@@ -1,20 +1,11 @@
 {
   "title": "Explore I2EDC",
   "subtitle": "Our Clubs",
-  "offerings": [
+  "clubs": [
     {
-      "title": "Protospace",
+      "title": "Protospace & Tinkering Lab",
       "description": "",
       "gradient": "from-blue-500 to-cyan-500",
-      "imageUrl" : [""],
-      "keyEvents": [""],
-      "highlights" : [""]
-    },
-
-    {
-      "title": "Tinkering Lab",
-      "description": "",
-      "gradient": "from-purple-500 to-pink-500",
       "imageUrl" : [""],
       "keyEvents": [""],
       "highlights" : [""]
@@ -35,5 +26,26 @@
       "keyEvents": [""],
       "highlights" : [""]
     }
+  ],
+  "activities" : [
+    {
+      "title": "InventX 2025",
+      "description": "",
+      "images" : [""],
+      "videos" : [""]
+    },
+    {
+      "title": "Invention Factory 2024",
+      "description": "",
+      "images" : [""],
+      "videos" : [""]
+    },
+    {
+      "title": "Make-a-Thon",
+      "description": "",
+      "images" : [""],
+      "videos" : [""]
+    }
+
   ]
 }
