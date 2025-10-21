@@ -3,26 +3,34 @@
   "subtitle": "Our Clubs",
   "clubs": [
     {
-      "title": "Protospace & Tinkering Lab",
-      "description": "",
+      "title": "Protospace",
+      "description": "ProtoSpace is the dedicated prototyping and innovation facility located in the South Campus of IIT Jammu. It provides students with a complete ecosystem to design, develop, and fabricate prototypes of their ideas. The lab is equipped with advanced tools including 3D printers, laser cutting machines, soldering stations, and mechanical workbenches, offering a professional setup for product development. ProtoSpace enables students to experience the entire innovation cycle — from concept design and modeling to physical realization — fostering creativity, technical skill, and problem-solving ability. It serves as a collaborative hub for interdisciplinary projects and prototype-based research.",
       "gradient": "from-blue-500 to-cyan-500",
-      "imageUrl" : [""],
+      "images" : [""],
+      "keyEvents": [""],
+      "highlights" : [""]
+    },
+    {
+      "title": "Tinkering Lab",
+      "description": "The Tinkering Lab, situated in the North Campus of IIT Jammu, complements ProtoSpace as a hands-on exploration and experimentation zone. It provides students with the platform to ideate, test, and iterate on their concepts using a variety of mechanical, electrical, and electronic tools. Designed to nurture curiosity and early-stage innovation, the lab encourages students to experiment freely and learn through practical engagement. It hosts regular training sessions, workshops, and bootcamps that build foundational technical skills. Together with ProtoSpace, the Tinkering Lab forms an integrated ecosystem where ideas evolve — from initial experimentation to fully functional prototypes.",
+      "gradient": "from-blue-500 to-cyan-500",
+      "images" : [""],
       "keyEvents": [""],
       "highlights" : [""]
     },
     {
       "title": "E-Cell",
-      "description": "E-Cell.",
+      "description": "The Entrepreneurship Cell (E-Cell) at IIT Jammu is the entrepreneurial arm of I2EDC, dedicated to promoting and nurturing the spirit of innovation and enterprise among students. It serves as a platform that connects aspiring entrepreneurs with mentors, industry leaders, and investors, guiding them from ideation to venture creation. E-Cell regularly organizes events to provide opportunities for students to pitch ideas, develop business models, and gain real-world exposure. Through interactive sessions, workshops, and startup networking opportunities, E-Cell helps students understand the entrepreneurial ecosystem and equips them with the mindset and skills required to launch and sustain successful ventures.",
       "gradient": "from-blue-500 to-cyan-500",
-      "imageUrl" : [""],
+      "images" : [""],
       "keyEvents": [""],
       "highlights" : [""]
     },
     {
       "title": "BEC",
-      "description": "Budding Entreprenuer Club",
+      "description": "The Budding Entrepreneur Club (BEC) functions as a student-driven extension of the E-Cell, focusing on cultivating entrepreneurial thinking at the grassroots level. It primarily engages first-year and second-year students, introducing them to the fundamentals of innovation, design thinking, and startup development. BEC organizes introductory entrepreneurship sessions, idea-building activities, and team-based innovation challenges that encourage students to think creatively and explore opportunities beyond academics. By fostering curiosity and leadership at an early stage, the club builds a strong foundation for future entrepreneurs who later transition into the larger E-Cell ecosystem. BEC plays a crucial role in developing entrepreneurial culture across the campus, ensuring that every student with an idea finds the right environment to grow and thrive.",
       "gradient": "from-blue-500 to-cyan-500",
-      "imageUrl" : [""],
+      "images" : [""],
       "keyEvents": [""],
       "highlights" : [""]
     }
@@ -32,20 +40,22 @@
       "title": "InventX 2025",
       "description": "",
       "images" : [""],
-      "videos" : [""]
+      "videos" : [""],
+      "category": [""]
     },
     {
       "title": "Invention Factory 2024",
       "description": "",
       "images" : [""],
-      "videos" : [""]
+      "videos" : [""],
+      "category": [""]
     },
     {
       "title": "Make-a-Thon",
       "description": "",
       "images" : [""],
-      "videos" : [""]
+      "videos" : [""],
+      "category": [""]
     }
-
   ]
 }
