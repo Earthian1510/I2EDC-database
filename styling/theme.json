@@ -1,0 +1,31 @@
+{
+    "font": {
+        "headings" : {
+            "tags" : ["h1", "h2", "h3", "h4", "h5", "h6"],
+            "fontFamily" : "Alexandria",
+            "googleFontLink" : "@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');",
+            "fontSize" : "Semi Bold",
+            "headingColor": "#1F1E1E"
+        },
+        "body" : {
+            "tags" : "all",
+            "fontFamily" : "Sora",
+            "googleFontLink" : "@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');",
+            "fontSize" : "Light",
+            "bodyColor": "#3B3535"
+        }
+    },
+    "color": {
+        "primary" : "#0C32D6",
+        "secondary" : ["#D3DCF6", "#E7EEF9"],
+        "text" : {
+            "headingColor": "#1F1E1E",
+            "bodyColor": "#3B3535",
+            "backgroundColor" : {
+                "cardBackground" : "#FFFAFA",
+                "pageBackground" : "#E7EEF9"
+            }
+
+        }
+    }
+}
