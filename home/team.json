@@ -4,7 +4,7 @@
             "name": "Dr Navneet Kumar",
             "club": "I2EDC",
             "role": "PIC",
-            "image": "http://72.60.102.111:8000/media/uploads/dr-navneet.jpeg"
+            "image": "http://72.60.102.111:8000/media/uploads/navneet-sir.jpeg"
         },
         {
             "name": "Dr Arvind",
@@ -16,7 +16,7 @@
             "name": "Mohammad Israil",
             "club": "ProtoSpace",
             "role": "OIC",
-            "image": ""
+            "image": "http://72.60.102.111:8000/media/uploads/israil-sir.jpeg"
         },
         {
             "name": "Namrit Bhardwaj",
@@ -88,7 +88,7 @@
             "name": "Purva",
             "club": "Outreach Team",
             "role": "Head",
-            "image": "http://72.60.102.111:8000/media/uploads/purva.jpegq"
+            "image": "http://72.60.102.111:8000/media/uploads/purva.jpeg"
         }
     ],
     "ps_tl_members": [

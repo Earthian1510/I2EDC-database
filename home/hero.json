@@ -15,7 +15,7 @@
       }
     ]
   },
-  "description": "",
+  "description": "I2EDC (Institute Innovation & Entrepreneurship Development Club) is a student-led community that encourages innovation, creativity, and entrepreneurship on campus. It’s a space where ideas come to life — from brainstorming new concepts to turning them into real projects and startups. Our club helps students explore, experiment, and learn by doing. Whether you’re building a prototype, pitching an idea, or just curious about innovation, I2EDC is the place to start. We believe in learning by creating — from ideas to innovation.",
   "buttons": [
     {
       "text": "",
@@ -26,7 +26,7 @@
       "action": "navigate_to_auth"
     }
   ],
-  "i2edc_logo" : "http://72.60.102.111:8000/media/uploads/logo.png",
+  "i2edc_logo" : "http://72.60.102.111:8000/media/uploads/bg-remove-logo.png",
   "navItems" : [
     "Home",
     "Clubs",
